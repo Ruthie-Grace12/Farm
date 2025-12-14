@@ -1,0 +1,49 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.VC.db
+*.VC.opendb
+*.pdb
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.log
+*.tmp
+
+# Unreal autosaves
+*.autosave
+
+# Unreal extra generated
+Platforms/
+.vsconfig
+
+# If you don't want VS solution files tracked:
+*.sln
+# Unreal Engine (full)
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio databases
+*.VC.db
+*.VC.opendb
+*.db
+*.pch
+
+# Large marketplace textures (GitHub limit)
+Content/Haunted_Farm/Textures/
